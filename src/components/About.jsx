@@ -23,7 +23,7 @@ const About = () => {
           <div className="relative">
             <div className="relative overflow-hidden rounded-lg border-2 border-white/10">
               <img
-                src={about.image}
+                src="/images/Profilepicture.png"
                 alt="Ayush Karole"
                 className="w-full h-[500px] object-cover"
               />
